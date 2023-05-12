@@ -2,7 +2,7 @@
 
 The aim of this study is to predict genuine and fraudulent credit card transactions from given attributes (binary classification problem).
 
-#Report Outline
+Report Outline
 #    Introduction
     Methodology
       1. Data Exploration
